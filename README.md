@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Sneha Bhadoriya
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python
-- 😄 I'm skilled in Advanced excel, Power BI, SQL, C++, DSA
+- 👀 I’m interested in Data Analytics
+- 😄 I'm skilled in Advanced excel, Power BI, SQL, Python, C++, DSA
 - 💞️ I’m looking to collaborate on full time data analyst/business analyst job roles
 - 📫 How to reach me Email- sneha18bhadoriya@gmail.com, Linkedin- https://www.linkedin.com/in/sneha-bhadoriya
 - ⚡ Fun fact: "Behind every great decision is a data analyst who cleaned up the chaos."
